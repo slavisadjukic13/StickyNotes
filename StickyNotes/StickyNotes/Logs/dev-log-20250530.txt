@@ -1,0 +1,4 @@
+2025-05-30 20:09:33.110 +02:00 [INF] Starting StickyNotes web host
+2025-05-30 20:10:36.302 +02:00 [INF] Login attempt: username asdasd, password asdasd
+2025-05-30 20:10:37.366 +02:00 [INF] Login failed: Invalid username or password, username asdasd, password asdasd
+2025-05-30 20:16:44.374 +02:00 [INF] Starting StickyNotes web host

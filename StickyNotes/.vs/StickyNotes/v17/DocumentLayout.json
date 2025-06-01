@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\StickyNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|c:\\projects\\stickynotes\\stickynotes\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|solutionrelative:stickynotes\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|c:\\projects\\stickynotes\\stickynotes\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|solutionrelative:stickynotes\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|c:\\projects\\stickynotes\\stickynotes\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|solutionrelative:stickynotes\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|c:\\projects\\stickynotes\\stickynotes\\dtos\\stickynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|solutionrelative:stickynotes\\dtos\\stickynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|c:\\projects\\stickynotes\\stickynotes\\mapping\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|solutionrelative:stickynotes\\mapping\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|c:\\projects\\stickynotes\\stickynotes\\mapping\\stickynotemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|solutionrelative:stickynotes\\mapping\\stickynotemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|c:\\projects\\stickynotes\\stickynotes\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|solutionrelative:stickynotes\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|c:\\projects\\stickynotes\\stickynotes\\controllers\\stickynotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57235F23-960E-4D4B-A16C-858C977461B7}|StickyNotes\\StickyNotes.csproj|solutionrelative:stickynotes\\controllers\\stickynotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2863,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\projects\\StickyNotes\\StickyNotes\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StickyNotes\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\projects\\StickyNotes\\StickyNotes\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StickyNotes\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:11:21.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\projects\\StickyNotes\\StickyNotes\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StickyNotes\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\projects\\StickyNotes\\StickyNotes\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StickyNotes\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:44:40.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StickyNoteMapper.cs",
+              "DocumentMoniker": "C:\\projects\\StickyNotes\\StickyNotes\\Mapping\\StickyNoteMapper.cs",
+              "RelativeDocumentMoniker": "StickyNotes\\Mapping\\StickyNoteMapper.cs",
+              "ToolTip": "C:\\projects\\StickyNotes\\StickyNotes\\Mapping\\StickyNoteMapper.cs",
+              "RelativeToolTip": "StickyNotes\\Mapping\\StickyNoteMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:19:12.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\projects\\StickyNotes\\StickyNotes\\Dtos\\User.cs",
+              "RelativeDocumentMoniker": "StickyNotes\\Dtos\\User.cs",
+              "ToolTip": "C:\\projects\\StickyNotes\\StickyNotes\\Dtos\\User.cs",
+              "RelativeToolTip": "StickyNotes\\Dtos\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:07:36.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StickyNoteController.cs",
+              "DocumentMoniker": "C:\\projects\\StickyNotes\\StickyNotes\\Controllers\\StickyNoteController.cs",
+              "RelativeDocumentMoniker": "StickyNotes\\Controllers\\StickyNoteController.cs",
+              "ToolTip": "C:\\projects\\StickyNotes\\StickyNotes\\Controllers\\StickyNoteController.cs",
+              "RelativeToolTip": "StickyNotes\\Controllers\\StickyNoteController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:47:43.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\projects\\StickyNotes\\StickyNotes\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "StickyNotes\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\projects\\StickyNotes\\StickyNotes\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "StickyNotes\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:37:46.8Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 823,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\projects\\StickyNotes\\StickyNotes\\Mapping\\UserMapper.cs",
+              "RelativeDocumentMoniker": "StickyNotes\\Mapping\\UserMapper.cs",
+              "ToolTip": "C:\\projects\\StickyNotes\\StickyNotes\\Mapping\\UserMapper.cs",
+              "RelativeToolTip": "StickyNotes\\Mapping\\UserMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:18:32.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StickyNote.cs",
+              "DocumentMoniker": "C:\\projects\\StickyNotes\\StickyNotes\\Dtos\\StickyNote.cs",
+              "RelativeDocumentMoniker": "StickyNotes\\Dtos\\StickyNote.cs",
+              "ToolTip": "C:\\projects\\StickyNotes\\StickyNotes\\Dtos\\StickyNote.cs",
+              "RelativeToolTip": "StickyNotes\\Dtos\\StickyNote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:13:29.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

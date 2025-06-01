@@ -1,0 +1,24 @@
+2025-05-28 00:10:44.274 +02:00 [INF] Starting StickyNotes web host
+2025-05-28 00:14:06.864 +02:00 [INF] Starting StickyNotes web host
+2025-05-28 00:22:49.356 +02:00 [INF] Login attempt: username admin, password admin123
+2025-05-28 00:22:50.396 +02:00 [INF] Login successful: username admin
+2025-05-28 00:32:14.959 +02:00 [INF] Login attempt: username admin, password admin123
+2025-05-28 00:32:15.012 +02:00 [INF] Login successful: username admin
+2025-05-28 00:41:54.267 +02:00 [INF] Getting sticky notes for user 1
+2025-05-28 00:41:54.270 +02:00 [INF] Fetching sticky notes for user 1
+2025-05-28 00:42:34.461 +02:00 [INF] Starting StickyNotes web host
+2025-05-28 00:42:39.640 +02:00 [INF] Getting sticky notes for user 1
+2025-05-28 00:42:39.657 +02:00 [INF] Fetching sticky notes for user 1
+2025-05-28 00:42:43.016 +02:00 [INF] Getting sticky notes for user 1
+2025-05-28 00:42:43.016 +02:00 [INF] Fetching sticky notes for user 1
+2025-05-28 00:42:50.069 +02:00 [INF] Getting sticky notes for user 1
+2025-05-28 00:42:50.069 +02:00 [INF] Fetching sticky notes for user 1
+2025-05-28 00:46:27.981 +02:00 [INF] Creating new sticky note for user 1
+2025-05-28 00:46:28.145 +02:00 [WRN] Sticky note 1 created for user 1
+2025-05-28 00:46:28.146 +02:00 [INF] Sticky note 1 created for user 1
+2025-05-28 01:30:44.407 +02:00 [INF] Starting StickyNotes web host
+2025-05-28 01:30:50.463 +02:00 [INF] Login attempt: username admin, password admin123
+2025-05-28 01:30:51.551 +02:00 [INF] Login successful: username admin
+2025-05-28 01:31:01.216 +02:00 [INF] Getting sticky notes for user 1
+2025-05-28 01:31:01.219 +02:00 [INF] Fetching sticky notes for user 1
+2025-05-28 01:50:05.209 +02:00 [INF] Starting StickyNotes web host

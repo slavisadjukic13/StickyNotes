@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StickyNotes</name>
+    </assembly>
+    <members>
+        <member name="M:AuthController.Register(StickyNotes.Dtos.UserCreateDto)">
+             <summary>
+             Register new user with password and username
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /api/auth/register
+                 {
+                     "username": "johndoe",
+                     "password": "StrongPassword123"
+                 }
+             </remarks>
+             <param name="model">Object containing the username and password.</param>
+             /// <returns>Returns a success message or an error if the username is already taken.</returns>
+             <returns></returns>
+             <response code="200">User registered successfully</response>
+             <response code="400">Username is already taken</response>
+             <response code="500">Unexpected server error</response>
+        </member>
+        <member name="P:StickyNotes.Dtos.UserCreateDto.Username">
+            <summary>
+            Desired Username for new user
+            </summary>
+        </member>
+        <member name="P:StickyNotes.Dtos.UserCreateDto.Password">
+            <summary>
+            Desired password for new user
+            </summary>
+        </member>
+    </members>
+</doc>
